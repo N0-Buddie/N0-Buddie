@@ -1,10 +1,8 @@
-@N0-Buddie because someone already took N0Buddie
-
-currently 16 y.o
+16 y.o
 
 interested in developing applications
 
-languages: java, python, c#
+languages: java, python, c#, c++
 
 pronouns: he/him, they/them
 
